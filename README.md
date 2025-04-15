@@ -38,11 +38,27 @@ This project is part of my learning journey as a Java backend developer and is c
 - PostgreSQL
 - Docker (optional for containerized run)
 
+🧠 What's Next / Looking for Help With
+I'm actively working on:
+
+Adding unit + integration tests (JUnit, TestContainers)
+
+Expanding microservices for Logistics and Notifications
+
+Improving error handling and validation
+
+Adding API documentation (Swagger/OpenAPI)
+
+Moving to service discovery and gateway setup
+
+Frontend (React or any framework — feel free to contribute!)
+
+
 ---
 
 ### 🔧 Steps:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/foodchain-platform.git
-   cd foodchain-platform
+   https://github.com/jaimondithoka/FoodChain-Smart-Food-Redistribution-Platform-project
+cd foodchain-platform
